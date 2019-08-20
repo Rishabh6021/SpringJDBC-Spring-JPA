@@ -1,0 +1,13 @@
+                                                                    	 JDBC(http://tinyurl.com/spring-data-sql-vatsab)
+
+
+Tomm:
+JPA
+MongoDB
+
+localhost:8080/getAll
+
+http://localhost:8080/search/Kartik
+
+
+
